@@ -40,7 +40,7 @@ seamless management solutions tailored to enhance efficiency, member experience,
 
 Courses:
 -
-- 60-hrs Web Development Course (ICT Hub - July 2024)
+- Web Development on Job Training (ICT Hub - July 2024)
 
 Connect with Me:
 -
