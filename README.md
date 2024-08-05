@@ -40,7 +40,7 @@ seamless management solutions tailored to enhance efficiency, member experience,
 
 Courses:
 -
-- Web Development on Job Training (ICT Hub - July 2024)
+- Practical on Job Training in Web Development (ICT Hub - July 2024)
 
 Connect with Me:
 -
